@@ -6,8 +6,11 @@ csc 4350 Networking
 11/23/20
 
 How to Play:
+
 The game is a two-player turn-based game.
+
 To start the game each player will enter the commanded "python3 Client.py"
+
 into their terminal,making sure that each player is in the correct directory.
 
 Once each player is connected to the server they will be prompted with a screen
@@ -50,8 +53,11 @@ While one player decides the other player is presented with the statement
 When it is the players turn they will be prompted with 4 action they could take:
 
 1: attack -----------> base damage is 10 with with a critical hit chance that adds 0-8 damage to the attack
+
 2: defend -----------> this action has a chance to negate all damage if successful but there is a chance that the defense will be unsuccessful
+
 3: use potion -------> this will add 20 health points to the player (each player starts with 3)
+
 4:Quit the game -----> this will end the game for both user if picked
 
 Each player's screen will update after an action is chosen. Each players' health
