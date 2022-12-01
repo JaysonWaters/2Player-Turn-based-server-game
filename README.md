@@ -2,7 +2,7 @@
 
 Kevin Stanley and Jayson Waters
 Game Project Documentation 
-csc 4350
+csc 4350 Networking
 11/23/20
 
 How to Play:
